@@ -1,0 +1,10 @@
+{
+    "HomePage": {
+        "title": "Hola mundo!",
+        "about": "Ir a página de acerca de"
+    },
+    "LanguageSelect": {
+        "label": "Cambiar lenguaje",
+        "locale": "{locale, select, es {🇲🇽 Español} en {🇺🇸 Inglés} other {Unknown}}"
+    }
+}
